@@ -1,0 +1,25 @@
+# Metin stone table for the Finder level filter.
+# Format: Name=VNUM  or  Name=VNUM:LEVEL
+# - VNUM is what matters (matching is by vnum, never by this name).
+# - :LEVEL is only a fallback for when the client does not expose mob levels
+#   (most GF clients do -- the log line 'level source' in mt2robs.txt tells you).
+# Classic GF metin stones, level 5 to 95:
+Metin of Grief=8001:5
+Metin of Battle=8002:10
+Metin of Greed=8003:15
+Metin of Darkness=8004:20
+Metin of Jealousy=8005:25
+Metin of Soul=8006:30
+Metin of Shadow=8007:35
+Metin of Hardship=8008:40
+Metin of Evil=8009:45
+Metin of Destruction=8010:50
+Metin of Death=8011:55
+Metin of Murder=8012:60
+Metin of Pung-Ma=8013:65
+Metin of Ma-An=8014:70
+Metin of Tu-Young=8023:75
+Metin of Jeon-Un=8024:80
+Metin of Gulk=8025:85
+Metin of On-Gok=8026:90
+Metin of Gyu-Sin=8027:95
